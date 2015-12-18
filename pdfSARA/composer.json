@@ -1,0 +1,16 @@
+{
+    "name" : "JorgeUlises/pdfSARA",
+    "description": "Permite crear un bloque que utiliza un componente de HTML a PDF",
+    "type": "extension",
+    "keywords": ["menu", "perfil", "rol"],
+    "license": "(LGPL-2.1 or GPL-3.0+)",
+    "require" : {
+        "frameworksara/sara" : "~1.1"
+    },
+    "authors" : [
+        {
+            "name" : "Jorge Ulises Useche Cuellar",
+            "email" : "juusechec@correo.udistrital.edu.co"
+        }
+    ]
+}
